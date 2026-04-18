@@ -1,11 +1,11 @@
-#Artifact Description
+# Artifact Description
 The artifact I selected for this enhancement is my CS 370 Final Project, which focused on building and improving 
 a pirate intelligent agent that learns to solve a maze using a reinforcement learning approach, specifically Deep Q-Learning. 
 The purpose of the project was to train an autonomous agent to move through a maze environment and consistently reach the treasure 
 by learning from rewards, penalties, and repeated attempts. This artifact was originally created during my work in CS 370: Current 
 and Emerging Trends in Computer Science.
 
-#Why I Selected This Artifact
+# Why I Selected This Artifact
 I selected this artifact for my ePortfolio because it demonstrates my ability to work with algorithmic logic in a practical and 
 challenging way. In this project, I had to develop a solution that allowed the agent to learn how to reach the treasure without 
 being directly programmed with the exact path. Instead, the agent had to make decisions, evaluate outcomes, and improve over time. 
@@ -23,7 +23,7 @@ and performance consistency. Through this enhancement, I strengthened the logic 
 more reliably and better demonstrate the intended learning behavior. This allowed me to demonstrate skills in algorithmic thinking, 
 problem solving, testing, and iterative software improvement.
 
-#Reflection on the Enhancement Process
+# Reflection on the Enhancement Process
 Through the process of enhancing this artifact, I learned that algorithm development often requires patience, repeated testing, 
 and a willingness to revise the original design. One of the biggest lessons I gained was that even when a program runs, that 
 does not mean it is performing well. In this case, the intelligent agent needed more than just functional code. It needed carefully 
