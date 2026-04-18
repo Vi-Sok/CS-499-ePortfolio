@@ -1,0 +1,47 @@
+# Artifact Description
+The artifact I selected for the databases category is my CS 340 Client/Server Development project, 
+originally created during the course as part of an animal shelter dashboard application. This artifact 
+used a Python CRUD module connected to a MongoDB database to manage animal records and support 
+interactions between the application and the database. I originally created this project during 
+CS 340 to demonstrate client-server communication, database connectivity, and structured data management.
+
+# Why I Selected This Artifact
+I chose this artifact for my ePortfolio because it highlights important database skills that are valuable 
+in computer science and software development. This project shows my ability to work with persistent data, 
+organize information in a database environment, and build application logic that retrieves and updates 
+records efficiently. I also selected it because it gave me a strong opportunity for enhancement. While the 
+original artifact demonstrated basic CRUD functionality, I saw ways to improve its structure, reliability, 
+and overall professionalism.
+
+The enhancement improved the artifact by strengthening how the application stores, retrieves, and processes data. 
+I improved the CRUD operations by making the code more organized and easier to maintain. I also reviewed how 
+requests were sent and managed between the client and the server-side database logic, and I improved the flow 
+of validation and error handling. In addition, I made the data-processing logic clearer so the application could 
+return results more consistently and in a more usable format. These improvements made the artifact more efficient 
+and better aligned with professional database development practices.
+
+This artifact belongs in my ePortfolio because it demonstrates skills in database design, structured data handling, 
+debugging, problem solving, and application improvement. It also shows that I can move beyond basic code 
+implementation and refine an existing system to make it more functional, reliable, and maintainable.
+
+# Reflection on the Enhancement Process
+Through this enhancement, I learned more about the importance of designing software that does not just work, 
+but is also well organized and dependable. I gained a better understanding of how database queries, validation, 
+and application logic must work together in a client-server environment. This process strengthened my understanding 
+of how database systems support larger software solutions and why organization and testing matter when working 
+with stored data.
+
+One of the biggest challenges I faced was identifying where the original issues were coming from and deciding 
+how to improve the code without disrupting the existing functionality. Another challenge was making sure the 
+application managed data correctly and returned meaningful results while keeping the code readable. Working through 
+those problems improved both my technical confidence and my understanding of database-centered software design.
+
+I also incorporated feedback by clarifying how the enhancement improved CRUD organization, validation, and database 
+reliability within the client-server environment. Revising the narrative in that way made it easier to show exactly 
+how the artifact changed and why those improvements matter in a professional setting.
+
+This artifact fully supports Outcome Three and Outcome Four because it demonstrates my ability to design and evaluate 
+a computing solution and improve it using appropriate tools and techniques. It also partially supports Outcome Five 
+because stronger validation and safer data handling reflect a more security-aware approach, even though security was 
+not the primary focus of the enhancement. Outcome Two is also partially supported because the artifact and narrative 
+communicate technical work clearly, but the main emphasis of this enhancement is database functionality and improvement.
