@@ -1,20 +1,49 @@
 Artifact Description
-The artifact I selected for this enhancement is my CS 370 Final Project, which focused on building and improving a pirate intelligent agent that learns to solve a maze using a reinforcement learning approach, specifically Deep Q-Learning. The purpose of the project was to train an autonomous agent to move through a maze environment and consistently reach the treasure by learning from rewards, penalties, and repeated attempts. This artifact was originally created during my work in CS 370: Current and Emerging Trends in Computer Science.
+The artifact I selected for this enhancement is my CS 370 Final Project, which focused on building and improving 
+a pirate intelligent agent that learns to solve a maze using a reinforcement learning approach, specifically Deep Q-Learning. 
+The purpose of the project was to train an autonomous agent to move through a maze environment and consistently reach the treasure 
+by learning from rewards, penalties, and repeated attempts. This artifact was originally created during my work in CS 370: Current 
+and Emerging Trends in Computer Science.
 
 Why I Selected This Artifact
-I selected this artifact for my ePortfolio because it demonstrates my ability to work with algorithmic logic in a practical and challenging way. In this project, I had to develop a solution that allowed the agent to learn how to reach the treasure without being directly programmed with the exact path. Instead, the agent had to make decisions, evaluate outcomes, and improve over time. This shows my understanding of how algorithms can be used to solve more advanced computational problems.
+I selected this artifact for my ePortfolio because it demonstrates my ability to work with algorithmic logic in a practical and 
+challenging way. In this project, I had to develop a solution that allowed the agent to learn how to reach the treasure without 
+being directly programmed with the exact path. Instead, the agent had to make decisions, evaluate outcomes, and improve over time. 
+This shows my understanding of how algorithms can be used to solve more advanced computational problems.
 
-The specific components that best showcase my skills are the training loop, reward-based decision system, and the logic used to evaluate actions and update the model. These elements demonstrate algorithmic thinking because they require structured problem solving, testing, refinement, and evaluation. The project also reflects my ability to assess system performance and revise the solution when the initial results were not consistent.
+The specific components that best showcase my skills are the training loop, reward-based decision system, and the logic used to 
+evaluate actions and update the model. These elements demonstrate algorithmic thinking because they require structured 
+problem solving, testing, refinement, and evaluation. The project also reflects my ability to assess system performance 
+and revise the solution when the initial results were not consistent.
 
-The enhancement improved the artifact by refining the intelligent agent’s learning process and improving the clarity and efficiency of the training logic. In my original plan, I noted that the agent did not consistently complete training or reach the treasure successfully. Because of that, my enhancement focused on reviewing the reward system, training cycle, and performance consistency. Through this enhancement, I strengthened the logic of the training process so the agent could perform more reliably and better demonstrate the intended learning behavior. This allowed me to demonstrate skills in algorithmic thinking, problem solving, testing, and iterative software improvement.
+The enhancement improved the artifact by refining the intelligent agent’s learning process and improving the 
+clarity and efficiency of the training logic. In my original plan, I noted that the agent did not consistently complete 
+training or reach the treasure successfully. Because of that, my enhancement focused on reviewing the reward system, training cycle, 
+and performance consistency. Through this enhancement, I strengthened the logic of the training process so the agent could perform 
+more reliably and better demonstrate the intended learning behavior. This allowed me to demonstrate skills in algorithmic thinking, 
+problem solving, testing, and iterative software improvement.
 
 Reflection on the Enhancement Process
-Through the process of enhancing this artifact, I learned that algorithm development often requires patience, repeated testing, and a willingness to revise the original design. One of the biggest lessons I gained was that even when a program runs, that does not mean it is performing well. In this case, the intelligent agent needed more than just functional code. It needed carefully tuned logic so that it could learn effectively and consistently reach the desired goal.
+Through the process of enhancing this artifact, I learned that algorithm development often requires patience, repeated testing, 
+and a willingness to revise the original design. One of the biggest lessons I gained was that even when a program runs, that 
+does not mean it is performing well. In this case, the intelligent agent needed more than just functional code. It needed carefully 
+tuned logic so that it could learn effectively and consistently reach the desired goal.
 
-I also learned more about how training parameters, reward structures, and repetition affect the success of a learning-based solution. Small changes in logic could have a large impact on performance, which taught me the importance of careful evaluation and incremental improvement. This strengthened my understanding of how algorithms are not only written, but also tested, measured, and refined in practice.
+I also learned more about how training parameters, reward structures, and repetition affect the success of a learning-based solution. 
+Small changes in logic could have a large impact on performance, which taught me the importance of careful evaluation and incremental improvement. 
+This strengthened my understanding of how algorithms are not only written, but also tested, measured, and refined in practice.
 
-The biggest challenge I faced was improving an artifact that did not originally perform as consistently as I wanted. Since the agent struggled to complete training and reach the treasure reliably, I had to spend time reviewing the existing structure, identifying where the learning process was breaking down, and thinking critically about how to improve it. Another challenge was organizing the enhancement so that it not only improved the program itself, but also clearly demonstrated the skills expected in the algorithms and data structures category.
+The biggest challenge I faced was improving an artifact that did not originally perform as consistently as I wanted. 
+Since the agent struggled to complete training and reach the treasure reliably, I had to spend time reviewing the existing structure, 
+identifying where the learning process was breaking down, and thinking critically about how to improve it. Another challenge was 
+organizing the enhancement so that it not only improved the program itself, but also clearly demonstrated the skills expected in 
+the algorithms and data structures category.
 
-I also incorporated feedback by making the narrative more specific about how the reward system, training cycle, and performance consistency were improved through the enhancement. Clarifying those details made the connection between the enhancement and the course category much stronger.
+I also incorporated feedback by making the narrative more specific about how the reward system, training cycle, and 
+performance consistency were improved through the enhancement. Clarifying those details made the connection between the 
+enhancement and the course category much stronger.
 
-This artifact fully supports Outcome Three and Outcome Four because it demonstrates my ability to design and evaluate a computing solution using algorithmic principles and to use appropriate tools and techniques to improve that solution. It also partially supports Outcome Two because the narrative explains the technical process and results clearly. Outcome Five was not directly met through this enhancement because the primary focus was algorithmic performance and refinement rather than security.
+This artifact fully supports Outcome Three and Outcome Four because it demonstrates my ability to design and evaluate 
+a computing solution using algorithmic principles and to use appropriate tools and techniques to improve that solution. 
+It also partially supports Outcome Two because the narrative explains the technical process and results clearly. 
+Outcome Five was not directly met through this enhancement because the primary focus was algorithmic performance and refinement rather than security.
